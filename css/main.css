@@ -94,3 +94,10 @@ section:target {
 h2 {
   animation: fadeIn 1s ease-in-out;
 }
+
+.nunito {
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
