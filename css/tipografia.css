@@ -1,6 +1,9 @@
-.big-shoulders-inline > {
-  font-family: "Big Shoulders Inline", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 700;
-  font-style: normal;
+body {
+  font-family: "Roboto", sans-serif;
+}
+h2 {
+  font-family: "OCR-A";
+}
+p {
+  font-family: "OCR-B";
 }
